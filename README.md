@@ -139,6 +139,10 @@ AI-Driven-News-Credibility-and-Influence-Analysis/
 
 ---
 
+## Dataset and trained model files are excluded from this repository because of GitHub storage limitations. The project code, preprocessing pipeline, training workflow, and evaluation scripts are provided to reproduce the results.
+
+---
+
 ## Author
 
 Karan Singh Rajput
