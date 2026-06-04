@@ -143,6 +143,10 @@ AI-Driven-News-Credibility-and-Influence-Analysis/
 
 ---
 
+License: MIT
+
+---
+
 ## Author
 
 Karan Singh Rajput
